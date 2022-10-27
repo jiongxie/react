@@ -1,5 +1,7 @@
 ## Management System
-본 프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템 입니다.
+React 고객관리 프로그램 연습
+
+유튜브 링크: https://www.youtube.com/watch?v=_yEH9mczm3g&list=PLRx0vPvlEmdD1pSqKZiTihy5rplxecNpz&index=1&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
